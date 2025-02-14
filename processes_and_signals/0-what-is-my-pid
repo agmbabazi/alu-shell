@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
-# script to display is own process ID
+# This script displays its own process ID
 echo $$
