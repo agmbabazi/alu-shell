@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+# This script lists all processe including those without a TTY and shows process hierarchy ps -eaf --forest
