@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+sed -i 's/ERRROR/WARNING/g' logfile.log
