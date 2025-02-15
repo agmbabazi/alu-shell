@@ -1,2 +1,0 @@
-#!/usr/bin/env bash
-ps -eo pid,comm,%cpu --sort=-%cpu | head -6
