@@ -1,4 +1,3 @@
 #!/usr/bin/env bash
 # This script kills the 7-highlander process
-kill $(ps aux | grep 7-highlander.sh | awk '{print $2}')
-
+pkill -SIGKILL -f "./7-highlander"
