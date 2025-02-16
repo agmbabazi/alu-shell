@@ -1,2 +1,3 @@
 #!/usr/bin/env bash
-# This script lists all processe including those without a TTY and shows process hierarchy ps -eaf --forest
+# Use ps to list all processes with hierarchy & user-oriented format by chriss
+ps auxf
